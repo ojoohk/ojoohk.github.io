@@ -11,7 +11,7 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username: admin
+      username:
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -37,8 +37,7 @@ sections:
     content:
       title: '🔬 Research'
       subtitle: ''
-      text: |-
-        I study the intersection of evolutionary cognitive science and Korean religious history. My research focuses on costly signaling theory, cultural evolution, and the transformation of patrilineal kinship structures in pre-modern Korea.
+      text: |- 
     design:
       columns: '1'
   - block: collection

@@ -19,7 +19,7 @@ education:
     date_start: 2023-09-01
 
 profiles:
-  - icon: envelope
+  - icon: at-symbol
     icon_pack: fas
     link: mailto:ojoohk@snu.ac.kr
 
